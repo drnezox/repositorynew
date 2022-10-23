@@ -9,19 +9,19 @@ Studied from 2014 to 2020
 
 ### My hard and soft skills 
 
-* Hard skills: 
+1. Hard skills: 
 - Knowledge at the intermediate level of Microsoft Office package;
 - Knowledge of the technical component of the computer;
 - Knowledge of English at an intermediate level.
 
-* Soft skills:
+2. Soft skills:
 * Ability to control your emotions in difficult situations;
 * Ability to work in a team;
 * I do my work on time before the deadline;
 * I can quickly analyze the situation in which I am;
 * Friendliness.
 
-* My personal qualities: 
+3. My personal qualities: 
 * Adaptability;
 * Teamwork;
 * Timely completion of tasks.
